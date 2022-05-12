@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="euro">€</string>
+    <string name="dollar">$</string>
+    <string name="convert">Convert</string>
+    <color name="myColor">#3399CC</color>
+</resources>
