@@ -3,8 +3,6 @@ package fr.android.calculatorasync;
 import android.os.AsyncTask;
 import android.widget.TextView;
 
-import java.util.ArrayList;
-
 public class CalculateAsyncTask extends AsyncTask<String, Integer, String> {
     private TextView outputArea;
     private CalculateFactory calculateFactory;
